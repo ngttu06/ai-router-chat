@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Interface",
+  "description": "A ChatGPT-like interface for interacting with Gemini models, featuring macOS-inspired design and dark/light modes.",
+  "requestFramePermissions": []
+}
